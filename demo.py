@@ -1,2 +1,2 @@
-if 'hello' == 'hello:
+if 'hello' == 'hello':
   print('world')
